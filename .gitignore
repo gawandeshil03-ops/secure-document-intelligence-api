@@ -1,0 +1,105 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Uploads
+/tmp/rag_uploads/
+uploads/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Docker
+*.pid
+
+# AWS
+.aws/
+
+# Secrets
+*.pem
+*.key
+*.crt
+# ============================================================
+# Portfolio secret protection
+# ============================================================
+.env
+.env.local
+.env.production
+.env.development
+.env.test
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+service-account.json
+application-local.properties
+application-secret.properties
+application-local.yml
+application-secret.yml
+secrets/
+secret/
+credentials/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+target/
+build/
+.gradle/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+node_modules/
+*.db
+*.sqlite
+*.sqlite3
